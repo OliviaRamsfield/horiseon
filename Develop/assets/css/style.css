@@ -78,6 +78,7 @@ p {
     margin-left: 20px;
 }
 
+/* start styling section sidebar of benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -136,7 +137,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* end styling section sidebar of benefits */
 
+/* start styling services offered section (content) */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -190,14 +193,16 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* end styling services offered section (content) */
 
-.footer {
+/* footer styling */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
